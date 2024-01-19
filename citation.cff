@@ -1,0 +1,12 @@
+To cite this, refer to https://ieeexplore.ieee.org/abstract/document/10022350
+"Joint Optimization of Diffusion Probabilistic-Based Multichannel Speech Enhancement with Far-Field Speaker Verification"
+  
+  @INPROCEEDINGS{10022350,
+  author={Dowerah, Sandipana and Serizel, Romain and Jouvet, Denis and Mohammadamini, Mohammad and Matrouf, Driss},
+  booktitle={2022 IEEE Spoken Language Technology Workshop (SLT)}, 
+  title={Joint Optimization of Diffusion Probabilistic-Based Multichannel Speech Enhancement with Far-Field Speaker Verification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={428-435},
+  doi={10.1109/SLT54892.2023.10022350}}
